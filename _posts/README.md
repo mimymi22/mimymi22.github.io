@@ -1,3 +1,11 @@
+---
+layout: post
+title:  깃허브(Github)-블로그에-포스팅하기
+comments: true
+tags: [jekyll, github, markdown]
+---
+
+
 ## 프로젝트 주제​
 
 통합계좌 관리 금융시스템입니다.​
